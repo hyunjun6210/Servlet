@@ -26,7 +26,4 @@ public class SpingMemberSaveControllerV1 {
         mv.addObject("member", member);
         return mv;
     }
-
-
-
 }
